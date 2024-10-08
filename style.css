@@ -1,1 +1,39 @@
+.right-0 .sub-menu{
+	right: 0!important;
+}
 
+.block-new-home .rb-tr{
+	right: 2px;
+}
+
+.lang_block .fa.fa-caret-down{
+	display: none;
+}
+.lang_block .dropdown-toggle{
+	background: none !important;
+	padding: 9px 10px !important;
+	-webkit-border-radius: 0 !important;
+	-moz-border-radius: 0 !important;
+	border-radius: 0 !important;
+	margin: 0 !important;
+}
+.lang_block .dropdown-toggle:hover{
+	color: #000000 !important;
+}
+.lang_block .dropdown-menu{
+	padding: 10px 0 !important;
+	min-width: 45px;
+}
+.lang_block .dropdown-menu a{
+	padding: 0px 15px !important;
+}
+.form-horizontal .row-customer_register .radio {
+	padding-top: 0 !important;
+}
+#simplecheckout_cart .form-control{
+	margin-top: 5px !important;
+}
+
+.simplecheckout-block-content .form-horizontal .control-label{
+	padding-top: 12px !important;
+}

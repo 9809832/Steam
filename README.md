@@ -18,3 +18,13 @@ GOLD HOMEGAME a great opportunity to always be the first to new adventures
 + Access to invisible mode
 Cost 199 UAH
 ```
+
+## SILVER HOMEGAMES
+
+```
+SILVER HOMEGAMES
++ 10% discount
++ No ads
++ Game mode
+Cost 99 UAH
+```

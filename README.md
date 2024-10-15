@@ -1,37 +1,5 @@
-# Foobar
+# HOMEGAMES
 
-Foobar is a Python library for dealing with word pluralization.
+[HOMEGAME](https://choosealicense.com/licenses/mit/) is a first-person open-world game in which you need to explore an unknown planet. Play alone or with friends, explore a new world, build multi-storey factories and enter the conveyor belt paradise!
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
+Here you can find all games for [ps5](https://www.playstation.com/uk-ua/ps5/) [ps4](https://www.playstation.com/uk-ua/ps4/) [ps3](https://www.playstation.com/uk-ua/ps3/) [xbox](https://www.xbox.com/ru-RUand) many others!

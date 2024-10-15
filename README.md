@@ -7,7 +7,9 @@ Here you can find all games for [ps5](https://www.playstation.com/uk-ua/ps5/) [p
 ## GOLD HOMEGAME
 
 ```
-Do you know what HOMEGAME is and what role it plays in your games? Want to be the first to get cool games? You don't have to be an expert to effectively position yourself.
+Do you know what HOMEGAME is and what role it plays in your games?
+Want to be the first to get cool games?
+You don't have to be an expert to effectively position yourself.
 GOLD HOMEGAME a great opportunity to always be the first to new adventures
 + 20% discount
 + No ads

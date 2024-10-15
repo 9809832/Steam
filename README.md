@@ -4,6 +4,16 @@
 
 Here you can find all games for [ps5](https://www.playstation.com/uk-ua/ps5/) [ps4](https://www.playstation.com/uk-ua/ps4/) [ps3](https://www.playstation.com/uk-ua/ps3/) [xbox](https://www.xbox.com/ru-RUand) many others!
 
+## SILVER HOMEGAMES
+
+```
+SILVER HOMEGAMES
++ 10% discount
++ No ads
++ Game mode
+Cost 99 UAH
+```
+
 ## GOLD HOMEGAME
 
 ```
@@ -19,12 +29,4 @@ GOLD HOMEGAME a great opportunity to always be the first to new adventures
 Cost 199 UAH
 ```
 
-## SILVER HOMEGAMES
 
-```
-SILVER HOMEGAMES
-+ 10% discount
-+ No ads
-+ Game mode
-Cost 99 UAH
-```
